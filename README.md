@@ -1,1 +1,1 @@
-# .github
+# .Zipkim ㅎㅅㅎ
