@@ -5,13 +5,17 @@
 <br/><br/>
 
 <img width="800" alt="대표화면" src="https://github.com/user-attachments/assets/aadd9b92-4908-48f5-8c5d-bf6b99032450">
-<br/><br/>
+<br/><br/><br/>
 
 ## 프로젝트 소개
-집킴이는 정보의 비대칭과 어렵고 복잡한 부동산 용어로부터 '몰라서' 피해를 받는 일이 없도록 하기 위해 출시된 서비스입니다. 
-지도 위에 가격 정보가 입력되어 있는 아이콘을 띄워 바로 확인이 가능하며, 각 건물마다 정확한 실거래가, 현매물가, 전세가율을 제공하여 정확한 시세 파악이 가능하게 하였습니다. 
+집킴이는 부동산 거래에서 임대인과 임차인 간의 정보 비대칭과 임차인이 겪는 정보 해석의 어려움을 해결하기 위해 만들어진 서비스에요.<br/>
 
-<br/><br/>
+이제 지도에서 각 건물의 전세가율을 쉽게 확인하고, 실거래가와 현재 매물가를 통해 정확한 시세를 파악할 수 있어요.<br/>
+또한, 등기 확인 서비스로 등기의 복잡한 내용을 쉽게 이해할 수 있으며, 근저당액 계산기를 통해 건물의 위험도를 손쉽게 평가할 수 있어요.<br/>
+더불어, 건물과 매물 정보는 물론, 공인중개사 정보도 투명하게 공개하여 거래 사고를 예방해요.<br/>
+
+이렇게 집킴이는 임대인과 임차인 간의 정보 불균형을 해소하고, 임차인이 보다 쉽게 정보를 해석할 수 있도록 돕는 것을 목표로 하고 있어요.
+<br/><br/><br/>
 
 ## 주요 기능
 #### 매물 유형별 실거래가 및 현매물가 조회
@@ -69,7 +73,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![zep](https://img.shields.io/badge/zep-6758FF?style=for-the-badge&logo=zep&logoColor=white)
-<br/><br/>
+<br/><br/><br/>
 
 ## 아키텍쳐
 <img width="800" alt="집킴이 아키텍쳐 설계도" src="https://github.com/user-attachments/assets/4a413b40-f6fd-4fcc-9d09-7ca576db9b77">
@@ -77,7 +81,7 @@
 
 ## ERD
 <img width="800" alt="집킴이 ERD" src="https://github.com/user-attachments/assets/fcb71795-261a-4470-89a9-0dc609229a45">
-<br/><br/>
+<br/><br/><br/>
 
 ## 팀원소개
 |이름|역할|
