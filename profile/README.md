@@ -94,9 +94,10 @@
 |황찬일| OCR API(표제부, 을구), 등기 확인 페이지, 시작 정보 페이지|
 
 <br/><br/>
-
-## 최종 프로젝트 경진대회 최우수상 수상
-<img width="600" alt="최종 프로젝트 경진대회 우수" src="https://github.com/user-attachments/assets/39cc8231-3ae2-429e-83a5-bb194c338de6">
+## 수상내역
+### 🏅 KB IT's Your Life 최종 프로젝트 최우수상 수상<br>
+> 피드백 및 평가 
+  <img width="600" alt="최종 프로젝트 경진대회 우수" src="https://github.com/user-attachments/assets/39cc8231-3ae2-429e-83a5-bb194c338de6">
 
 
 
