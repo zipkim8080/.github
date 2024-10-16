@@ -92,7 +92,12 @@
 |윤정현| 매물 API, 지도 API, 검색 API, CI/CD|
 |이현지| OCR API(갑구), 등기 업로드 페이지, 건물 상세 페이지, 매물 상세 페이지|
 |황찬일| OCR API(표제부, 을구), 등기 확인 페이지, 시작 정보 페이지|
-<br/>
+
+<br/><br/>
+
+## 최종 프로젝트 경진대회 최우수상 수상
+<img width="600" alt="최종 프로젝트 경진대회 우수" src="https://github.com/user-attachments/assets/39cc8231-3ae2-429e-83a5-bb194c338de6">
+
 
 
 
